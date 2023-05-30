@@ -1,2 +1,2 @@
 # SeleniumProjectOne
-Selenium Project One
+This contains Selenium scripts with basics concepts
