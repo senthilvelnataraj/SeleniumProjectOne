@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7607" started-at="2023-05-31T19:18:12 IST" finished-at="2023-05-31T19:18:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7607" started-at="2023-05-31T19:18:12 IST" finished-at="2023-05-31T19:18:19 IST">
+      <class name="loginTC.LoginTestCase_JXL">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:loginTC.LoginTestCase_JXL@4e718207]" name="beforetest" is-config="true" duration-ms="2811" started-at="2023-05-31T19:18:12 IST" finished-at="2023-05-31T19:18:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="loginTestcase(java.lang.String,java.lang.String)[pri:0, instance:loginTC.LoginTestCase_JXL@4e718207]" name="loginTestcase" duration-ms="1816" started-at="2023-05-31T19:18:15 IST" data-provider="logindata" finished-at="2023-05-31T19:18:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestcase -->
+        <test-method status="PASS" signature="loginTestcase(java.lang.String,java.lang.String)[pri:0, instance:loginTC.LoginTestCase_JXL@4e718207]" name="loginTestcase" duration-ms="517" started-at="2023-05-31T19:18:17 IST" data-provider="logindata" finished-at="2023-05-31T19:18:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_use]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestcase -->
+        <test-method status="PASS" signature="loginTestcase(java.lang.String,java.lang.String)[pri:0, instance:loginTC.LoginTestCase_JXL@4e718207]" name="loginTestcase" duration-ms="732" started-at="2023-05-31T19:18:17 IST" data-provider="logindata" finished-at="2023-05-31T19:18:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestcase -->
+        <test-method status="PASS" signature="loginTestcase(java.lang.String,java.lang.String)[pri:0, instance:loginTC.LoginTestCase_JXL@4e718207]" name="loginTestcase" duration-ms="674" started-at="2023-05-31T19:18:18 IST" data-provider="logindata" finished-at="2023-05-31T19:18:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_use]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestcase -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:loginTC.LoginTestCase_JXL@4e718207]" name="aftertest" is-config="true" duration-ms="803" started-at="2023-05-31T19:18:19 IST" finished-at="2023-05-31T19:18:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- loginTC.LoginTestCase_JXL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
