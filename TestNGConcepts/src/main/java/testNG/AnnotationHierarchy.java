@@ -17,7 +17,7 @@ public class AnnotationHierarchy {
   }
   @BeforeMethod
   public void beforeMethod() {
-	  System.out.println("Im BeforeMethod");
+	  System.out.println("Im BeforeMethods");
   }
 
   @AfterMethod
