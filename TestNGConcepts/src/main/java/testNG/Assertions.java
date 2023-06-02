@@ -9,7 +9,7 @@ public class Assertions {
 	@Test
 	public void checkEquals() {
 
-		String name = "senthilvel";
+		String name = "senthil";
 		boolean value=true;
 //		if (name.equals("Senthil")) {
 //
